@@ -1,0 +1,32 @@
+[23:13:56] [Server thread/INFO]: Starting minecraft server version 1.8
+[23:13:56] [Server thread/INFO]: Loading properties
+[23:13:56] [Server thread/INFO]: Default game type: SURVIVAL
+[23:13:56] [Server thread/INFO]: Generating keypair
+[23:13:56] [Server thread/INFO]: Starting Minecraft server on 25.109.222.158:25565
+[23:13:57] [Server thread/INFO]: Preparing level "world"
+[23:13:57] [Server thread/INFO]: Preparing start region for level 0
+[23:13:58] [Server thread/INFO]: Done (0,955s)! For help, type "help" or "?"
+[23:17:03] [User Authenticator #1/INFO]: UUID of player Shwek is 37297653-558f-4801-9c4c-232126546601
+[23:17:03] [Server thread/INFO]: Shwek[/25.109.222.158:56181] logged in with entity id 262 at (-240.5, 69.0, 234.5)
+[23:17:03] [Server thread/INFO]: Shwek joined the game
+[23:17:05] [User Authenticator #2/INFO]: UUID of player Shwek is 37297653-558f-4801-9c4c-232126546601
+[23:17:05] [Server thread/INFO]: Shwek[/25.109.222.158:56184] logged in with entity id 422 at (-226.5, 62.0, 248.5)
+[23:17:05] [Server thread/INFO]: Shwek joined the game
+[23:17:05] [Server thread/INFO]: Shwek lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:17:05] [Server thread/INFO]: Shwek left the game
+[23:17:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2340ms behind, skipping 46 tick(s)
+[23:20:44] [User Authenticator #3/INFO]: UUID of player sabujaki is 4a9faf7e-1ae0-40ee-9d8e-94efb0ce82bf
+[23:20:44] [Server thread/INFO]: sabujaki[/25.109.210.241:63904] logged in with entity id 5910 at (-231.5, 71.0, 241.5)
+[23:20:44] [Server thread/INFO]: sabujaki joined the game
+[23:21:00] [Server thread/INFO]: sabujaki lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:21:00] [Server thread/INFO]: sabujaki left the game
+[23:22:23] [Server thread/INFO]: Shwek lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:22:23] [Server thread/INFO]: Shwek left the game
+[23:26:22] [Server thread/INFO]: Stopping the server
+[23:26:22] [Server thread/INFO]: Stopping server
+[23:26:22] [Server thread/INFO]: Saving players
+[23:26:22] [Server thread/INFO]: Saving worlds
+[23:26:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:26:22] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:26:22] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:26:23] [Server Shutdown Thread/INFO]: Stopping server
